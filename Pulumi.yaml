@@ -1,0 +1,3 @@
+name: pulumi-gitlab-99-sandbox
+runtime: nodejs
+main: index.ts
